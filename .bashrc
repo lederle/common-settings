@@ -1,0 +1,15 @@
+
+alias gs="git status"
+alias gss="git status -s"
+alias gcm="git commit"
+alias gcma="git commit -a"
+alias gcmam="git commit -am"
+alias gco="git checkout"
+alias gcob="git checkout -b"
+alias ga="git add"
+alias gl="git lola"
+alias gd="git diff"
+alias gdc="git diff --cached"
+alias gba="git branch -a"
+
+alias cs="C:/Windows/Microsoft.NET/Framework/v4.0.30319/csc.exe"
