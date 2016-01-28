@@ -13,3 +13,5 @@ alias gdc="git diff --cached"
 alias gba="git branch -a"
 
 alias cs="C:/Windows/Microsoft.NET/Framework/v4.0.30319/csc.exe"
+alias sps='cd /w/VERC/lederle/repos/nrt-dss.SPSApp2'
+
